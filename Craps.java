@@ -74,3 +74,16 @@ public class Craps
         }
     }
 }
+
+
+/* 
+
+COMMENTS FROM THE INSTRUCTOR:
+
+Nice job including the JavaDocs! Make sure you include the
+play again option as indicated in the assignment.
+
+SCORE: 1/20
+
+*/
+
